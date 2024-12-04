@@ -1,0 +1,23 @@
+/* Add to your CSS file */
+.error {
+    color: red;
+    text-align: center;
+  }
+  
+  .movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .movie-item {
+    text-align: center;
+    width: 200px;
+  }
+  
+  .movie-item img {
+    width: 100%;
+    height: auto;
+  }
+  
